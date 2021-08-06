@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.10.0](https://github.com/schmittjoh/JMSSerializerBundle/tree/3.10.0) (2021-08-06)
+
+**Implemented enhancements:**
+
+- Add support for php8 attributes [\#859](https://github.com/schmittjoh/JMSSerializerBundle/pull/859) ([goetas](https://github.com/goetas))
+
+**Merged pull requests:**
+
+- Use public alias for security.authorization\_checker service [\#855](https://github.com/schmittjoh/JMSSerializerBundle/pull/855) ([W0rma](https://github.com/W0rma))
+- Remove cache clearer service when cache is disabled [\#850](https://github.com/schmittjoh/JMSSerializerBundle/pull/850) ([marmichalski](https://github.com/marmichalski))
+
 ## [3.9.1](https://github.com/schmittjoh/JMSSerializerBundle/tree/3.9.1) (2021-03-23)
 
 **Merged pull requests:**
